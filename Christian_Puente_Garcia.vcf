@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Puente García;Christian;;;
+FN:Christian Puente García
+ORG:Agencia de Regulación y Control de Hidrocarburos
+TITLE:Director Ejecutivo (e)
+TEL;TYPE=WORK:+59323996500
+NOTE:Ext. 61101
+EMAIL;TYPE=WORK:christian.puente@controlhidrocarburos.gob.ec
+ADR;TYPE=WORK:;;Calle Estadio N10-285;Quito;;;Ecuador
+END:VCARD
